@@ -1,0 +1,12 @@
+{
+   "tematica":"Tecnología",
+   "enunciado":"¿Quién es considerado el padre de la informática?",
+   "opciones_respuesta":[
+      "Alan Turing",
+      "Bill Gates",
+      "Steve Jobs",
+      "Tim Berners-Lee"
+   ],
+   "respuesta_correcta":"Alan Turing",
+   "explicacion":"Alan Turing es considerado el padre de la informática por sus contribuciones fundamentales en el campo de la ciencia de la computación."
+}

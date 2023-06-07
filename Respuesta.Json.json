@@ -1,0 +1,74 @@
+[
+   {
+      "tematica":"Tecnología",
+      "enunciado":"¿Quién es considerado el padre de la informática?",
+      "opciones_respuesta":[
+         "Alan Turing",
+         "Bill Gates",
+         "Steve Jobs",
+         "Tim Berners-Lee"
+      ],
+      "respuesta_correcta":"Alan Turing",
+      "explicacion":"Alan Turing es considerado el padre de la informática por sus contribuciones fundamentales en el campo de la ciencia de la computación."
+   },
+   {
+      "tematica":"Literatura",
+      "enunciado":"¿Quién escribió la novela 'Cien años de soledad'?",
+      "opciones_respuesta":[
+         "Gabriel García Márquez",
+         "Pablo Neruda",
+         "Jorge Luis Borges",
+         "Mario Vargas Llosa"
+      ],
+      "respuesta_correcta":"Gabriel García Márquez",
+      "explicacion":"La novela 'Cien años de soledad' fue escrita por el autor colombiano Gabriel García Márquez."
+   },
+   {
+      "tematica":"Música",
+      "enunciado":"¿Qué banda británica lanzó el álbum 'The Dark Side of the Moon'?",
+      "opciones_respuesta":[
+         "Pink Floyd",
+         "The Beatles",
+         "Led Zeppelin",
+         "Queen"
+      ],
+      "respuesta_correcta":"Pink Floyd",
+      "explicacion":"El álbum 'The Dark Side of the Moon' fue lanzado por la banda británica Pink Floyd en 1973."
+   },
+   {
+      "tematica":"Cine",
+      "enunciado":"¿Quién interpretó el papel de Iron Man en las películas del Universo Cinematográfico de Marvel?",
+      "opciones_respuesta":[
+         "Robert Downey Jr.",
+         "Chris Evans",
+         "Chris Hemsworth",
+         "Tom Hiddleston"
+      ],
+      "respuesta_correcta":"Robert Downey Jr.",
+      "explicacion":"Robert Downey Jr. interpretó el papel de Iron Man (Tony Stark) en las películas del Universo Cinematográfico de Marvel."
+   },
+   {
+      "tematica":"Deportes",
+      "enunciado":"¿En qué deporte se utiliza un bate y una pelota?",
+      "opciones_respuesta":[
+         "Béisbol",
+         "Fútbol",
+         "Baloncesto",
+         "Tenis"
+      ],
+      "respuesta_correcta":"Béisbol",
+      "explicacion":"En el deporte del béisbol se utiliza un bate para golpear una pelota y marcar carreras."
+   },
+   {
+      "tematica":"Historia",
+      "enunciado":"¿En qué año tuvo lugar la Revolución Francesa?",
+      "opciones_respuesta":[
+         "1776",
+         "1789",
+         "1804",
+         "1848"
+      ],
+      "respuesta_correcta":"1789",
+      "explicacion":"La Revolución Francesa comenzó en el año 1789 y fue un importante evento que marcó el fin de la monarquía absoluta en Francia."
+   }
+]
